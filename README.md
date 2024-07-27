@@ -62,11 +62,13 @@ git clone https://github.com/ayushg212/Heart_Disease_Analysis.git
 ```
 
 ## Navigate to the directory:
-```cd Heart_Disease_Analysis
+```sh
+cd Heart_Disease_Analysis
 ```
 ### Usage
 Launch Jupyter Notebook:
-```jupyter notebook
+```sh
+jupyter notebook
 ```
 Open heart-disease-exploratory-data-analysis.ipynb and run the cells to perform the analysis.
 
